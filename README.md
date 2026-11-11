@@ -30,11 +30,34 @@
 
 ## 🛠️ Languages & Technologies
 
-<div align="center">
+<h2 align="center">🛠️ Languages & Technologies</h2>
 
-<img src="https://skillicons.dev/icons?i=python,java,js,react,nodejs,express,mongodb,mysql,html,css,bootstrap,tailwind,git,github,postman,vscode&theme=dark" />
+<h3 align="center">💻 Programming Languages</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,js" />
+</p>
 
-</div>
+<h3 align="center">🌐 Frontend Development</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,react,bootstrap,tailwind" />
+</p>
+
+<h3 align="center">⚙️ Backend Development</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+<h3 align="center">🗄️ Databases</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
+
+<h3 align="center">🔧 Tools & Platforms</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode" />
+</p>
+
+
 
 ---
 
